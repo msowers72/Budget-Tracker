@@ -23,7 +23,7 @@ user updates the application offline, the changes will be reflected when
 the connection is re-established. 
 
 ## Usage
-Create new deposits or withdraws transactions. Transactions,
+Create new deposits or withdraw transactions. Transactions,
 can be created whether the user is online or offline.
 
 ## Dependencies
