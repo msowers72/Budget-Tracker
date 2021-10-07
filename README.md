@@ -17,7 +17,10 @@
 <msowers72@yahoo.com>
 
 ## Description:
- 
+Users of this unique Budget Tracker application will be able to add 
+expenses and deposits with or without an internet connection. If, a 
+user updates the application offline, the changes will be reflected when
+the connection is re-established. 
 
 ## Usage
 
@@ -36,8 +39,8 @@
  [Workout Tracker Link](https://young-retreat-50235.herokuapp.com/?id=614d1e2bf18c4e0016de5bcc)
  
  
- ![images](./assets/screenshots/Capture.PNG) 
- ![images](./assets/screenshots/Capture2.PNG) 
+ ![images](./assets/total.png) 
+ 
 
 
 
