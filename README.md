@@ -36,7 +36,7 @@ the connection is re-established.
 <!-- ![Tux, the Linux mascot](https://img.shields.io/badge/License-MIT-green) -->
   
  ## Deployed
- [Workout Tracker Link](https://young-retreat-50235.herokuapp.com/?id=614d1e2bf18c4e0016de5bcc)
+ [Budget-Tracker Link](https://immense-bastion-84166.herokuapp.com/)
  
  
  ![images](./assets/total.png) 
@@ -75,4 +75,3 @@ the connection is re-established.
 
 
 
-https://immense-bastion-84166.herokuapp.com/
